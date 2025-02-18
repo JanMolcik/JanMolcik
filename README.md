@@ -1,5 +1,10 @@
-## Hi there 👋
+## Hi there, Jan Molčík here 👋
 
+🚀 I am FE developer with a passion for Next js
+
+🔭 I am currently working on [Shopsys](https://github.com/shopsys/shopsys/) - opencode e-commerce platform
+
+📖 I am continuously learning App Router by implementing it's core concepts (RSC, Server Actions, Composition Patterns) in a [complex real-world application](https://github.com/shopsys/shopsys/pull/3590)
 <!--
 **JanMolcik/JanMolcik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
